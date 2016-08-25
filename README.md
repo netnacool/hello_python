@@ -1,1 +1,1 @@
-# hello_python
+# First python script learned from udemy tutorial
